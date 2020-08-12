@@ -49,7 +49,6 @@ Here is the schema and explanation of each variable in the files:
 * json==2.0.9
 * progressbar==3.37.1
 * sklearn==0.23.1
-* tensorflow==1.14.0
 * keras==2.3.1
 * seaborn==0.10.1
 * matplotlib==3.2.2
